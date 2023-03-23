@@ -1055,6 +1055,7 @@ _Packages for accounting and finance._
 - [accounting](https://github.com/leekchan/accounting) - money and currency formatting for golang.
 - [ach](https://github.com/moov-io/ach) - A reader, writer, and validator for Automated Clearing House (ACH) files.
 - [bbgo](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
+- [client-go](https://github.com/polygon-io/client-go) - A client for stocks, options, indices, crypto, technical indicators, and company financials from polygon.io. REST API and WebSocket access to financial market data.
 - [currency](https://github.com/bojanz/currency) - Handles currency amounts, provides currency information and formatting.
 - [currency](https://github.com/bnkamalesh/currency) - High performant & accurate currency computation package.
 - [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers.
